@@ -15,11 +15,12 @@ a {
   color: white;
   text-decoration: none;
 }
-img {
+header img {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 5px solid green;
+  border: 5px solid chartreuse;
 }
 .center {text-align: center;
 }
+h1{color: chartreuse ;}
